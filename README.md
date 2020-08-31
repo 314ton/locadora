@@ -1,5 +1,5 @@
 # locadora
-###Uma locadora de filmes, escrita em GOlang
+### Uma locadora de filmes, escrita em GOlang
 
 Pra rodar, basta 
 
